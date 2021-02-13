@@ -1,0 +1,12 @@
+[submodule "caf_amqp"]
+	path = caf_amqp
+	url = ../caf_amqp
+[submodule "caf_rpi_nap"]
+	path = caf_rpi_nap
+	url = ../caf_rpi_nap
+[submodule "caf_rpi_zx"]
+	path = caf_rpi_zx
+	url = ../caf_rpi_zx
+[submodule "caf_bloom"]
+	path = caf_bloom
+	url = ../caf_bloom
